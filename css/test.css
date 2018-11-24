@@ -1,0 +1,31 @@
+/*PC用*/
+@media screen and (min-width: 767px){
+
+}
+/*タブレット用*/
+@media screen and (max-width: 767px){
+
+}
+/*スマホ用*/
+@media screen and (max-width: 479px){
+
+}
+
+body{
+    color: #000000;
+    background-color: #eebbcb;
+}
+
+.bg-center{
+    color: #000000;
+    background-color: white;
+}
+
+header{
+    color: white;
+    background-color: #7a4171;
+}
+footer{
+    color: white;
+    background-color: #7a4171;
+}
